@@ -18,7 +18,7 @@ I start by cleaning the data. Tasks during this section include:
 * Drop NaN values from DataFrame
 * Removing rows based on a condition
 * Change the type of columns (to_numeric, to_datetime, astype)
-* Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
+* Once the data is cleaned up our data a bit, I move to the data exploration section. In this section I explore 5 high level business questions related to the data:
 
 1. What was the best month for sales? How much was earned that month?
 2. What city sold the most product?
